@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "pesquisa_de_satisfação/1.0.0": {
+        "runtime": {
+          "pesquisa_de_satisfação.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pesquisa_de_satisfação/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
